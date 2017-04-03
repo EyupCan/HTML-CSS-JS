@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Renk </title>
+    </head>
+    <body>
+        <font color="#0000FF"> Mavi Renk </font> <!-- Hex renk kodu -->
+        <font color="red"> Mavi Olmayan Renk </font> <!-- HTML renk kodu -->
+    </body>
+</html>
