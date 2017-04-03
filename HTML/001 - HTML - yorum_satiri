@@ -1,0 +1,11 @@
+<!DOCTYPE html> <!-- Dosya tipini belirtir. -->
+<html>
+    <head> <!-- Teknik elementlerin bulunduğu bölüm -->
+        <meta charset="utf-8" /> <!-- Karakter seti tanımlar -->
+        <title>HTML öğreniyorum</title> <!-- Tarayıcı için sayfaya başlık verir -->
+    </head>
+    <body> <!-- Sayfa içerisinde gösterilecek elementlerin bulunduğu bölüm -->
+        <p>Merhaba Beta Dünya</p> <!-- Paragraf oluşturmaya yarar -->
+        <strong>Merhaba Alfa Dünya</strong> <!-- Yazıyı kalınlaştırmaya yarar -->
+    </body>
+</html>
